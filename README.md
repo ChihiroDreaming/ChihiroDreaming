@@ -6,12 +6,7 @@
 - 📫 How to reach me ...
 
 ## Currently Working in:
-- Ciudad de Niños: Sandbox simulation RPG. Using unity 2D
-- The Theather: Survival horror RPG. 2D
-
-
-
-[As you can see, im fan of RPG of all types]
+- Zombie Hunter: Top Down shooter with exploration
 <!---
 ChihiroDreaming/ChihiroDreaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
